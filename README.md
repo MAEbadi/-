@@ -1,20 +1,21 @@
-# Pharmaceutical Sales Dashboard (Excel)
+# داشبورد فروش محصولات دارویی (اکسل)
 
-## Overview
-Interactive dashboard built in Microsoft Excel to analyze pharmaceutical sales performance.
+## نگاه کلی
+تحلیل فروش و محصولات و انبار یک شرکت داروسازی با استفاده از یک داشبورد تعاملی در مایکروسافت اکسل
 
-## Features
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- KPI Cards
-- Dynamic Dashboard
+## قابلیت‌ها
+-پیووت تیبل‌ها
+- جداول پیووت
+- اسلایسرها
+- کارت‌های KPI
+- داشبورد متحرک
 
-## Tools
-- Microsoft Excel
-- Pivot Tables
-- Excel Charts
+## ابزارها
+- مایکروسافت اکسل
+- پیووت تیبل
+- چارت‌های اکسل
 
-## Dashboard Preview
+## نگاهی به داشبورد
+### فروش
+<img width="1822" height="636" alt="اسکرین شات داشبورد بخش فروش" src="https://github.com/user-attachments/assets/88686861-2b46-4b87-bfab-d0c5d8e2b385" />
 
-![Dashboard](اسکرین شات داشبورد بخش فروش.png)
