@@ -17,4 +17,4 @@ Interactive dashboard built in Microsoft Excel to analyze pharmaceutical sales p
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](اسکرین شات داشبورد بخش فروش.png)
